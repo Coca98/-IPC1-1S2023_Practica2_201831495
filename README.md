@@ -1,1 +1,3 @@
-# -IPC1-1S2023_Practica2_201831495
+Oscar Cecilio  guilon Lopez
+201831495
+Introducion a la programacion y computad  1
